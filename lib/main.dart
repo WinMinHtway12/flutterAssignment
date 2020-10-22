@@ -115,7 +115,7 @@ class MyApp extends StatelessWidget {
                         Text("Total Price",
                             style: TextStyle(color: Colors.grey)),
                         Text(
-                          "20.00",
+                          "\$20.00",
                           style: TextStyle(
                               fontSize: 20, fontWeight: FontWeight.bold),
                         )
